@@ -1,0 +1,12 @@
+# Ignore PDF reports
+*.pdf
+
+# Ignore ZIP archives
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
